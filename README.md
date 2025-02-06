@@ -6,7 +6,7 @@ Plagiarism detection in Arabic texts remains a significant challenge due to the 
 Dataset
 
 # Dataset
-Link: [[Dataset Link](https://araplagdet.misc-lab.org/)]
+Link: https://araplagdet.misc-lab.org/
 
 Format: The Dataset format is in three folders plagiarism annotation, source-documents, and suspicious documents and the annotations are stored in XML files. 
 
