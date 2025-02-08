@@ -9,6 +9,7 @@ Plagiarism detection in Arabic texts remains a significant challenge due to the 
 These experiments were conducted on a system equipped with an AMD Ryzen 9 5900X processor, 128GB of RAM, and an NVIDIA RTX 3090 GPU. The experiments were implemented using Python version 3.11.0. 
 To maintain a consistent environment for all experiments, the same hardware and software configurations were used throughout the study.
 
+After cloning the repository install the libraries with used version using the following:
 ```bash
 pip install -r requirements.txt
 ```
