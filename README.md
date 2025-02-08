@@ -53,9 +53,9 @@ column_name → The column in input.csv to be translated.
 ## Plagiarism detection models
 We trained siamaese neural network, by replacing its layers once with Longformer, and AraT5, We also used weighted class entropy and dice loss due to class imbalance.
 
-Notebook 1: [Siamese Longformer.ipynb](Siamese Longformer.ipynb). This notebook contains Siamese longformer implementation with Dice loss, while weighted class entropy is commented in the last few lines
+Notebook 1: [Siamese_Longformer.ipynb](Siamese_Longformer.ipynb). This notebook contains Siamese longformer implementation with Dice loss, while weighted class entropy is commented in the last few lines
 
-Notebook 2: [Siamese Arat5.ipynb](Siamese Arat5.ipynb). This notebook contains Siamese AraT5 implementation with Dice loss, while weighted class entropy is commented in the last few lines
+Notebook 2: [Siamese_Arat5.ipynb](Siamese_Arat5.ipynb). This notebook contains Siamese AraT5 implementation with Dice loss, while weighted class entropy is commented in the last few lines
 
 To run the code with weighted class entropy loss function, just replace this line of code: 
 ```
