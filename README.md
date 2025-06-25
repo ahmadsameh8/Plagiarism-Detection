@@ -1,9 +1,11 @@
 # Plagiarism Detection Across Languages: A Comprehensive Study of Arabic and English-to-Arabic Long Documents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15733557.svg)](https://doi.org/10.5281/zenodo.15733557)
+
+
 ## Overview
 
 Plagiarism detection in Arabic texts remains a significant challenge due to the complex morphological structure, rich linguistic diversity, and scarcity of high-quality labeled datasets. This study proposes a robust framework for Arabic plagiarism detection by integrating Siamese Neural Networks (SNN) with state-of the-art transformer architectures, specifically AraT5 and Longformer. The system employs a hybrid workflow, combining transformer-based encoders and a classification objective to implicitly learn textual similarity.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15733557.svg)](https://doi.org/10.5281/zenodo.15733557)
 
 
 ## Requirements
